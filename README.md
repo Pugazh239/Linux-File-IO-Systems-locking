@@ -89,11 +89,11 @@ return 0;
 
 ## OUTPUT
 
-<img width="913" height="169" alt="image" src="https://github.com/user-attachments/assets/6d3ea270-f87b-4486-b5e5-26458a91c732" />
+<img width="1085" height="1031" alt="image" src="https://github.com/user-attachments/assets/ae56f133-14cb-457b-89fb-d864cf0f9641" />
 
 
 
-<img width="805" height="797" alt="image" src="https://github.com/user-attachments/assets/ea5c91ff-a22a-4316-9bb9-51805d1f216a" />
+<img width="1046" height="1118" alt="image" src="https://github.com/user-attachments/assets/98f3a0c9-3e68-4850-844f-2592292d2a0b" />
 
 # RESULT:
 The programs are executed successfully.
